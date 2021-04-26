@@ -1,0 +1,38 @@
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\User_Registration_Tests.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\User_Registration_Tests.pdb
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\Pract_2.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\Pract_2.pdb
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.csprojAssemblyReference.cache
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.csproj.CoreCompileInputs.cache
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.csproj.CopyComplete
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.dll
+D:\Education\Техникум\Поддержка и тестирование программных модулей\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.pdb
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\User_Registration_Tests.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\User_Registration_Tests.pdb
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\Pract_2.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\Pract_2.pdb
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.csproj.CopyComplete
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.dll
+C:\Users\Admin\source\repos\Pract_2\User_Registration_Tests\obj\Debug\User_Registration_Tests.pdb
